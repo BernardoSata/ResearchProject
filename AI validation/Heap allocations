@@ -1,0 +1,110 @@
+-------------------------------------------------------------
+N=2, K=3: (-1,0) futures
+-------------------------------------------------------------
+
+Partition of a set of 442678 objects. Total size = 53225000 bytes.
+ Index  Count   %     Size   % Cumulative  % Kind (class / dict of class)
+     0 129056  29 16115780  30  16115780  30 str
+     1  98647  22  7632464  14  23748244  45 tuple
+     2  27473   6  4881937   9  28630181  54 types.CodeType
+     3  54730  12  4224624   8  32854805  62 bytes
+     4  25325   6  3444200   6  36299005  68 function
+     5   3379   1  3373352   6  39672357  75 type
+     6   7901   2  2710384   5  42382741  80 dict (no owner)
+     7   1149   0  1730848   3  44113589  83 dict of module
+     8   3379   1  1666656   3  45780245  86 dict of type
+     9  32977   7   929700   2  46709945  88 int
+<1094 more rows. Type e.g. '_.more' to view.>
+
+
+Partition of a set of 1057194 objects. Total size = 95566161 bytes.
+ Index  Count   %     Size   % Cumulative  % Kind (class / dict of class)
+     0 129065  12 16117303  17  16117303  17 str
+     1 165682  16 11565216  12  27682519  29 tuple
+     2 139994  13 10079080  11  37761599  40 list
+     3  44690   4  6435360   7  44196959  46 dict of plannerFull.Drone
+     4  44689   4  6435216   7  50632175  53 dict of plannerFull.Node_f
+     5  27473   3  4888081   5  55520256  58 types.CodeType
+     6  54740   5  4225594   4  59745850  63 bytes
+     7 112206  11  3590592   4  63336442  66 numpy.float64
+     8  25325   2  3444200   4  66780642  70 function
+     9   3379   0  3373312   4  70153954  73 type
+<1097 more rows. Type e.g. '_.more' to view.>
+
+  memory_used    = 42.34 Mbytes
+  objects        = 614516
+  av_object_size = 65.08 bytes
+  
+-------------------------------------------------------------
+N=3, K=3: (-1,0) futures
+-------------------------------------------------------------
+Partition of a set of 440761 objects. Total size = 53074116 bytes.
+ Index  Count   %     Size   % Cumulative  % Kind (class / dict of class)
+     0 126171  29 15831945  30  15831945  30 str
+     1  99074  22  7659568  14  23491513  44 tuple
+     2  27487   6  4886292   9  28377805  53 types.CodeType
+     3  54758  12  4226684   8  32604489  61 bytes
+     4  25347   6  3447192   6  36051681  68 function
+     5   3382   1  3377856   6  39429537  74 type
+     6   7921   2  2728632   5  42158169  79 dict (no owner)
+     7   1151   0  1732128   3  43890297  83 dict of module
+     8   3382   1  1668296   3  45558593  86 dict of type
+     9  32987   7   929984   2  46488577  88 int
+<1098 more rows. Type e.g. '_.more' to view.>
+
+
+Partition of a set of 10549510 objects. Total size = 753292555 bytes.
+ Index  Count   %     Size   % Cumulative  % Kind (class / dict of class)
+     0 946263   9 136261872  18 136261872  18 dict of plannerFull.Drone
+     1 1898594  18 133104336  18 269366208  36 list
+     2 630841   6 90841104  12 360207312  48 dict of plannerFull.Node_f
+     3 1045341  10 63173960   8 423381272  56 tuple
+     4 946269   9 60561216   8 483942488  64 plannerFull.Volume
+     5 1826850  17 58459200   8 542401688  72 numpy.float64
+     6 946263   9 45420624   6 587822312  78 plannerFull.Drone
+     7 630841   6 35327096   5 623149408  83 plannerFull.Node
+     8 315534   3 32821716   4 655971124  87 numpy.ndarray
+     9 630841   6 30280368   4 686251492  91 plannerFull.Node_f
+<1103 more rows. Type e.g. '_.more' to view.>
+
+
+  memory_used    = 700.2 Mbytes
+  objects        = 10108749
+  av_object_size = 69.27 bytes
+  
+  
+-------------------------------------------------------------
+N=2, K=4: (-1,0) futures
+-------------------------------------------------------------
+Partition of a set of 439387 objects. Total size = 52875527 bytes.
+ Index  Count   %     Size   % Cumulative  % Kind (class / dict of class)
+     0 125800  29 15803218  30  15803218  30 str
+     1  98642  22  7632168  14  23435386  44 tuple
+     2  27472   6  4881659   9  28317045  54 types.CodeType
+     3  54710  12  4222739   8  32539784  62 bytes
+     4  25325   6  3444200   7  35983984  68 function
+     5   3379   1  3373352   6  39357336  74 type
+     6   7901   2  2709848   5  42067184  80 dict (no owner)
+     7   1149   0  1730848   3  43798032  83 dict of module
+     8   3379   1  1666656   3  45464688  86 dict of type
+     9  32976   8   929672   2  46394360  88 int
+<1092 more rows. Type e.g. '_.more' to view.>
+
+
+Partition of a set of 3515696 objects. Total size = 264929448 bytes.
+ Index  Count   %     Size   % Cumulative  % Kind (class / dict of class)
+     0 676256  19 47403104  18  47403104  18 list
+     1 223442   6 32175648  12  79578752  30 dict of plannerFull.Drone
+     2 223441   6 32175504  12 111754256  42 dict of plannerFull.Node_f
+     3 433879  12 27300080  10 139054336  52 tuple
+     4 556458  16 17806656   7 156860992  59 numpy.float64
+     5 129154   4 16125017   6 172986009  65 str
+     6 223449   6 14300736   5 187286745  71 plannerFull.Volume
+     7 223441   6 12512696   5 199799441  75 plannerFull.Node
+     8 111834   3 11636916   4 211436357  80 numpy.ndarray
+     9 223442   6 10725216   4 222161573  84 plannerFull.Drone
+<1101 more rows. Type e.g. '_.more' to view.>
+
+  memory_used    = 211.7 Mbytes
+  objects        = 3072692
+  av_object_size = 68.89 bytes

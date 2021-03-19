@@ -1,0 +1,8 @@
+Questions:
+1) Do not multiply by the depth, as a very long request my appear at a first and all the future state may have a much smaller ones => lose admissibility
+2) Are goal nodes initialized with the heuristic?
+
+
+
+
+Add time_to_task in the model!
